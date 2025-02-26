@@ -44,6 +44,12 @@ El modelo alcanzó las siguientes métricas:
 #### Evolución del F1-score
 ![image](https://github.com/user-attachments/assets/98f291ed-758b-4c7b-b820-b558c982d650)
 
+### Prueba del modelo prediciendo imágenes
+
+![image](https://github.com/user-attachments/assets/c26063ae-c41c-40f3-a132-7684eb3f3153)
+
+Se logró predecir 10/10 imágenes.
+
 ## API REST
 
 El proyecto incluye una API REST construida con Flask que permite realizar predicciones en tiempo real.
