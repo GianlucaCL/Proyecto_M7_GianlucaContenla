@@ -1,6 +1,4 @@
-# Proyecto_M7_GianlucaContenla
-
-# Proyecto M7 - Gianluca Contenla
+# Proyecto M7 UDD - Gianluca Contenla
 
 ## Descripción del Proyecto
 
